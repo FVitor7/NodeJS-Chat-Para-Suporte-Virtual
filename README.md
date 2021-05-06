@@ -16,6 +16,7 @@
 Este projeto é um chat para dar suporte ao atendimento de clientes em tempo real.
 
 > Preview
+
 ![Alt Text](https://github.com/FVitor7/NodeJS-Chat-Para-Suporte-Virtual/raw/main/public/images/preview.gif)
 
 ## ✨ Tecnologias
